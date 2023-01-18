@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Backend skills.
+- 🌱 I’m currently learning Golang and a lot of things
+- 📫 How to reach me: zjb617@foxmail.com
